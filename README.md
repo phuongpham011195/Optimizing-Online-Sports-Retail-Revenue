@@ -1,6 +1,6 @@
-<h1 align="center"> Optimizing Online Sports Retail Revenue
+<h1 align="center"> Optimizing Online Sports Retail Revenue  
 
-![My Remote Image](https://images.datacamp.com/image/upload/v1693418126/image11_cc1a7a9a05.jpg)
+![My Remote Image](https://i.le360.ma/le360sport/sites/default/files/styles/img_742_454/public/assets/images/2022/08-reda/sport.jpg?itok=ZDMgFmoL)
 ## 🎾 About the Project:  
 In the `Optimizing Online Sports Retail Revenue` project, we'll dive into product data for an online sports clothing company with the final goal of developing recommendations for the company to maximize its revenue. We will deal with a wide variety of information kept in several tables. The information includes prices, discounts, revenue, ratings, reviews, product descriptions, and website traffic. We're going to answer questions like:  
 - How do the price points of Nike and Adidas products differ?
