@@ -1,7 +1,7 @@
 ![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://i.le360.ma/le360sport/sites/default/files/styles/img_742_454/public/assets/images/2022/08-reda/sport.jpg?itok=ZDMgFmoL))
 <h1 align="center"> Optimizing Online Sports Retail Revenue 🏂  
-
-In the `Optimizing Online Sports Retail Revenue` project, we'll dive into product data for an online sports clothing company with the final goal of developing recommendations for the company to maximize its revenue. We will deal with a wide variety of information kept in several tables. The information includes prices, discounts, revenue, ratings, reviews, product descriptions, and website traffic. We're going to answer questions like:
+## 🎾 About the Project:  
+In the `Optimizing Online Sports Retail Revenue` project, we'll dive into product data for an online sports clothing company with the final goal of developing recommendations for the company to maximize its revenue. We will deal with a wide variety of information kept in several tables. The information includes prices, discounts, revenue, ratings, reviews, product descriptions, and website traffic. We're going to answer questions like:  
 - How do the price points of Nike and Adidas products differ?
 - Is there a difference in the amount of discount offered between the brands?
 - Is there any correlation between revenue and reviews? And if so, how strong is it?
