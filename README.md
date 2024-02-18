@@ -1,5 +1,4 @@
-<h1 align="center"> Optimizing Online Sports Retail Revenue  
-
+<h1 align="center"> Optimizing Online Sports Retail Revenue<br />
 
 <img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/Adidas_Nike.jpeg" width="400" length="50" align="center"/>  
 
