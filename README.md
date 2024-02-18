@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/Adidas_Nike.jpeg" width="400" length="200" align="center"/>
+<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/Adidas_Nike.jpeg" width="600" length="300" align="center"/>
 </p>
 <h1 align="center"> Optimizing Online Sports Retail Revenue
   
