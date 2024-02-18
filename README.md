@@ -19,6 +19,11 @@ We're going to answer questions like:
 This project is based on <a href="https://app.datacamp.com/learn/projects/optimizing_online_revenue/guided/SQL">Optimizing Online Sports Retail Revenue</a> Project of DataCamp & I also adjusted some values to have more chances to play around with SQL statements.
 Data set includes 5 tables: `info`, `finance`, `traffic`, `brands` and `reviews`.
 
+## 📉 Data Analyst Steps:
+<p align="center">
+<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/data_analyst_steps.png" width="600" length="300" align="center"/>
+</p>
+
 ## 💻 Languagues & Tools:  
 - `PostgreSQL`: We'll need to apply advanced SQL skills such as aggregation, summarizing, truncating, cleaning, labeling, casting, common table expressions, correlation, and working with dates and times.
 - `Power BI`: After cleaning, manipulating & exploring data, we'll visualize data by Power BI tool.
