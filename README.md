@@ -20,7 +20,9 @@ This project is based on <a href="https://app.datacamp.com/learn/projects/optimi
 Data set includes 5 tables: `info`, `finance`, `traffic`, `brands` and `reviews`.
 
 ## 🪜 Data Analyst Steps:
-
+<p align="center">
+<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/data_analyst_steps.png" width="600" length="300" align="center"/>
+</p>
 
 ## 💻 Languagues & Tools:  
 - `PostgreSQL`: We'll need to apply advanced SQL skills such as aggregation, summarizing, truncating, cleaning, labeling, casting, common table expressions, correlation, and working with dates and times.
