@@ -24,6 +24,11 @@ This project is based on <a href="https://app.datacamp.com/learn/projects/optimi
 
 <img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/data%20modeling.png" width="400" length="50" align="center"/>
 
+## 📊 Report:
+<p align="center">
+<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/Optimizing_Online_Sports_Retail_Revenue_Report.png" width="600" length="300" align="center"/>
+</p>
+
 ## 📬 Connect With Me:
 Gmail: phuongpham011195@gmail.com  
 LinkedIn: https://www.linkedin.com/in/phuong-pham-b7193618b/
