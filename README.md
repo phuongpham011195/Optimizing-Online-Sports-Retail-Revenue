@@ -1,5 +1,6 @@
-<h1 align="center"> Optimizing Online Sports Retail Revenue   
-  
+<h1 align="center"> Optimizing Online Sports Retail Revenue  
+<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/Adidas_Nike.jpeg" width="400" length="50"/>  
+
 ## 🎾 About The Project:
 In the `Optimizing Online Sports Retail Revenue` project, we'll dive into product data for an online sports clothing company with the final goal of developing recommendations for the company to maximize its revenue.  
 We will deal with a wide variety of information kept in several tables. The information includes prices, discounts, revenue, ratings, reviews, product descriptions, and website traffic.  
