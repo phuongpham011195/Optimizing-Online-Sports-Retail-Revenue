@@ -19,7 +19,19 @@ We're going to answer questions like:
 - `PostgreSQL`: We'll need to apply advanced SQL skills such as aggregation, summarizing, truncating, cleaning, labeling, casting, common table expressions, correlation, and working with dates and times.
 - `Power BI`: After cleaning, manipulating & exploring data, we'll visualize data by Power BI tool.
 
-## 📊 Data Set:
+## 🛠️ SQL Function:
+SQL functions that I used in this project:
+- Create table and import data from csv files
+- Create temporate table
+- Join functions
+- Data Manipulation with CASE Expression, ILIKE operator, UPPER() function
+- Aggregate functions with GROUP BY Statement, HAVING clause
+- Window functions with RANK() funtion
+- CTE (Common Table Expression)
+- Pivot table with CROSSTAB query
+- Subqueries in SELECT and Where Statement
+
+## 📉 Data Set:
 This project is based on <a href="https://app.datacamp.com/learn/projects/optimizing_online_revenue/guided/SQL">Optimizing Online Sports Retail Revenue</a> Project of DataCamp & I also adjusted some values to have more chances to play around with SQL statements.
 
 ## 📊 Power BI Report:
