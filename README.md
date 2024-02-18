@@ -1,4 +1,5 @@
 <h1 align="center"> Optimizing Online Sports Retail Revenue  
+
 <img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/Adidas_Nike.jpeg" width="400" length="50"/>  
 
 ## 🎾 About The Project:
