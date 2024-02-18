@@ -18,6 +18,7 @@ We're going to answer questions like:
 
 ## 📊 Data Set:
 This project is based on <a href="https://app.datacamp.com/learn/projects/optimizing_online_revenue/guided/SQL">Optimizing Online Sports Retail Revenue</a> Project of DataCamp & I also adjusted some values to have more chances to play around with SQL statements.
+<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/data%20modeling.png" width="128"/>
 
 ## 📬 Connect With Me:
 Gmail: phuongpham011195@gmail.com  
