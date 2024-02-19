@@ -48,7 +48,7 @@ SQL functions that I used in this project:
 ## 💭 Recommendation:
 - Revenue and customers's reviews have a moderately positive correlation. To improve revenue performance, we should propose some incentive promotions that make customers leave a review after placing an order and try products.
 - Product reviews are highest in the first quarter of the calendar year. To optimize costs, we should launch incentive promotions in the other nine months instead of the first quarter.
-Nike did a good job when there were no discounts on their products, retaining 100% of their organic customers. However, to expand our customer base, we should add some discounts on some specific products.
+- Nike did a good job when there were no discounts on their products, retaining 100% of their organic customers. However, to expand our customer base, we should add some discounts on some specific products.
 - Less product choice is another limitation; more items to choose from can increase revenue.
 - Adidas is the top brand by multiple choice of products and a lot of attractive discounts. Another thing we should care about is costs. We should decrease the discount percent to save costs.
 - Following the analysis, we can see that if the product does not have a description, the rating will be lower than if it had a clearly stated description. So we must add all the information thoroughly to our online store.
