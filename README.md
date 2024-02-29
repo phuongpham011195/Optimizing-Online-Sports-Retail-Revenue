@@ -42,7 +42,7 @@ SQL functions that I used in this project:
 
 ## 📊 Power BI Report:
 <p align="center">
-<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/Optimizing_Online_Sports_Retail_Revenue_Report.png" width="600" length="300" align="center"/>
+<img src="https://github.com/phuongpham011195/Optimizing-Online-Sports-Retail-Revenue/blob/main/image/Optimizing%20Online%20Sports%20Retail%20Revenue%20Report.jpg" width="600" length="300" align="center"/>
 </p>
 
 ## 💭 Recommendation:
